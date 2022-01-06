@@ -1,0 +1,180 @@
+body{
+
+    font-family: 'Poppins', sans-serif;  
+}
+
+h1{
+
+font-size: 50px;
+
+}
+
+.section-1{
+
+display: flex;
+margin: 150px;
+
+}
+
+.heading-color{
+
+color: rgb(194, 77, 96);
+
+
+}
+
+.para-developer{
+
+text-align: justify;
+
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+.details-button{
+text-decoration: none;
+background-image: linear-gradient(pink, skyblue);
+padding: 10px 20px;
+color: white;
+font-weight: 700;
+border-radius: 10px;
+margin: 100px 5px 60px 5px;
+
+}
+
+.web-2022{
+ 
+    border-left: brown  5px solid;
+    margin-left: 20px;
+ padding-left: 15px;
+
+}
+
+.width-area{
+    width: 40%;
+  
+    margin-right: 10px;
+
+    }
+
+    .width-area img{
+
+width: 55%;
+
+margin: 10% 10% 15% 40% ;
+
+    }
+
+    #html-definition{
+width: 30%;
+margin-right: 5%;
+margin-left: 5%;padding: 20px;
+padding-top: 250px;
+
+    }
+
+    #css-definition{
+
+        width: 30%;
+        margin-right: 5%;
+        margin-left: 5%;
+        padding: 20px;
+        padding-top: 250px;
+ background-color:#E8E7BB ;
+
+    }
+
+    #git-definition{
+
+ background-color: #F1717E;
+        width: 30%;
+        margin-right: 5%;
+        margin-left: 5%;
+        padding: 20px;
+ padding-top: 250px;
+
+
+    }
+
+    .programming-steps{
+
+text-align: center;
+
+    }
+
+    .illustrator-1{
+
+background-image: url(./images/illustrators/illustrator-1.png);
+background-repeat: no-repeat;
+ background-size: 260px 280px;
+ background-attachment: scroll;
+ background-position: top;
+background-color:#B8D9D4 ;
+
+ 
+
+    }
+
+    .illustrator-2{
+background-image: url(./images/illustrators/illustrator-2.png  );
+        background-repeat: no-repeat;
+        background-size: 260px 280px;
+        background-attachment: scroll;
+        background-position: top;
+
+    }
+
+    .illustrator-3{
+
+background-image: url(./images/illustrators/illustrator-3.png);
+        background-repeat: no-repeat;
+        background-size: 260px 280px;
+        background-attachment: scroll;
+        background-position: top;
+
+    }
+
+    .chines-apu{
+
+margin-right: 200px;
+
+    }
+
+    .dream-bg{
+
+background-image: url(./images/pictures/dream-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+
+
+    }
+
+    .programmer-vai{
+background-image: url(./images/shapes/shape-1.png);
+background-repeat: no-repeat;
+background-position: right;
+
+
+    }
+
+    .last-one{
+background-color: black;
+height: 220px;
+text-align: center;
+    }
+
+    .mission{
+color: white;
+ 
+
+    }
+
+    .number{
+color: tomato;
+
+    }
+    .motivation{
+color: whitesmoke;
+
+    }
